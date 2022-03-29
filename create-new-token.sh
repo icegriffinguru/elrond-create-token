@@ -1,7 +1,7 @@
 #configuration
-NETWORK_NAME="devnet" ## devnet, testnet, mainnet
-PROXY=https://devnet-gateway.elrond.com
-CHAIN_ID="D"
+NETWORK_NAME="testnet" ## devnet, testnet, mainnet
+PROXY=https://testnet-gateway.elrond.com
+CHAIN_ID="T"
 
 WALLET="wallet/dev-wallet.pem"
 ESDT_ISSUE_ADDRESS=erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzllls8a5w6u
